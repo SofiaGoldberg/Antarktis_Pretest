@@ -1,0 +1,14 @@
+id,name,type,sex,country,year,success,duration
+es,Ernest Shackleton,1,1,uk,,NA,NA
+ne,Nimrod-Expedition,2,NA,uk,1907,2,2
+fe,Fram-Expedition,2,NA,nor,1910,1,2
+ra,Roald Amundsen,1,1,nor,NA,NA,NA
+kp,Kristian Prestrud,1,1,nor,NA,NA,NA
+tn,Thorvald Nilsen,1,1,nor,NA,NA,NA
+qe,Quest-Expedition,2,NA,uk,1921,2,1
+fw,Frank Wild,1,1,uk,NA,NA,NA
+te,Terra-Nova-Expedition,2,NA,uk,1910,2,3
+rs,Robert Scott,1,1,uk,NA,NA,NA
+ee,Edward Evans,1,1,uk,NA,NA,NA
+hp,Harry Pennell,1,1,uk,NA,NA,NA
+ja,Jameson Adams,1,1,uk,NA,NA,NA
